@@ -31,9 +31,9 @@
 <img height="30" src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png"> 
 
 
-<!-- <br/>
+<br/>
  <p align="left"><img src="c++_init_forest (1).gif" height="200dp" width="280dp"></p>
-<br /> -->
+<br />
 
 
 
@@ -52,7 +52,7 @@
  
 
 </div>
----
+
 
 
 
