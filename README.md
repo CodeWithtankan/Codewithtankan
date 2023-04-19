@@ -3,29 +3,14 @@
 
 ### Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="4%" width="4%" >              
 <!-- ## I'm krishnakant !! -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=53F7AEC5&width=435&height=29&lines=I+am+Krishnakant+Kumar+(Kant);I+am+Founder+of+Code+Bank;I+am+Mern+Stack+Developer;)](https://git.io/typing-svg)
-- 🔭 I  am passionate Full Stack Developer and Freelancer.
-- 🌱 From Brainware University, Kolkata.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=53F7AEC5&width=435&height=29&lines=I+am+Chirag+Tankan+(Tankan);I+am+Web+devlouper;I+am+Programer;)](https://git.io/typing-svg)
+- 🔭 I  am passionate front-end Developer and Freelancer.
+- 🌱 From My Home, India.
 - 🛠⚙ I love to explore and learn about new things.
 - 🤝🎓 I’m looking to collaborate with other developer's
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to making food and eat.
 > 🐱‍💻 Not very active in Competitive Programming , but if I get time or feeling, I do :)
-
-[![wakatime](https://wakatime.com/badge/user/a20f612d-058d-4b0e-bbad-509e268f1dcc.svg)](https://wakatime.com/@a20f612d-058d-4b0e-bbad-509e268f1dcc)
-
-
-### Connect with me :
-
-[![Website](https://img.shields.io/website?label=Freelancer&style=for-the-badge&url=https%3A%2F%2Fkant146.wordpress.com)](https://www.freelancer.com/u/krishnakantkr)
-[![Instagram Badge](https://img.shields.io/badge/-Code_Bank-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/code_bank146/)](https://www.instagram.com/code_bank146/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail&logoColor=white&link=https://mailto:codebank2020@gmail.com)](mailto:codebank2020@gmail.com)&nbsp;
-[![Website](https://img.shields.io/website?label=Code_Bank&style=for-the-badge&url=https%3A%2F%2Fcodebnk.in)](http://codebnk.in)
-<br/>
-[![Linkedin Badge](https://img.shields.io/badge/-linkedn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishnakant-kumar-80965b176/)](https://www.linkedin.com/in/krishnakant-kumar-80965b176/)&nbsp;[![Instagram Badge](https://img.shields.io/badge/-instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kant_146/)](https://www.instagram.com/kant_146/)&nbsp;[![Hashnode Badge](https://img.shields.io/badge/-hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://hashnode.com/@Kant146)](https://hashnode.com/@Kant146)&nbsp;
-[![Medium Badge](https://img.shields.io/badge/-medium-000000?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@krishnakantkumar_32146)](https://medium.com/@krishnakantkumar_32146)<br/> [![Youtube Badge](https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q)](https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q)&nbsp; [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/omgkant.146)](https://www.facebook.com/omgkant.146)
-[![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=Discord&logoColor=white&link=https://discord.gg/JzaTUBFdB6)](https://discord.gg/JzaTUBFdB6)
-&nbsp;
 
 
 <br />
@@ -51,7 +36,6 @@
 <br /> -->
 
 
-<p align="center"><img src="kant146 (5).gif" height="280dp" width="460dp"></p> 
 
 <br>
 
@@ -59,60 +43,16 @@
 
 <div class="github-info" align="center" width="40%" >
 
-![Count](https://profile-counter.glitch.me/kant146/count.svg)
+![Count](https://profile-counter.glitch.me/codewithtankan/count.svg)
   
 <img src="https://github-profile-trophy.vercel.app/?username=kant146&theme=onedark&row=1&margin-w=15&margin-h=15">
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kant146&theme=onedark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kant146&layout=compact&theme=tokyonight)
-![kant's github stats](https://github-readme-stats.vercel.app/api?username=kant146&show_icons=true&hide_border=true&theme=onedark&count_private=true)
-  
+ 
 
 </div>
 ---
 
-
-
->    ### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages](https://kant146.wordpress.com/2020/10/24/javascript/)
-- [Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming](https://kant146.wordpress.com/2020/10/24/python/)
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://kant146.wordpress.com)
-
----
-
-<details align="center" width="40%">
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/kant146/Kant-Portfolio-Website) in [kant146/Kant-Portfolio-Website](https://github.com/kant146/Kant-Portfolio-Website)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details align="center" width="40%">
-  <summary>:zap: GitHub Stats</summary>
-  
-  
- ![kant's github stats](https://github-readme-stats.vercel.app/api?username=kant146&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-![kant's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kant146) 
-
-</details>
-
-<img src="coding.gif">
-
-[website]: https://kant146.wordpress.com
-[facebook]: https://www.facebook.com/omgkant.146
-[youtube]: https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q
-[instagram]: https://instagram.com/kant146
-[linkedin]: https://www.linkedin.com/in/krishnakant-kumar-80965b176
-
-
-
-  
 
 
