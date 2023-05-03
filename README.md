@@ -3,7 +3,7 @@
 
 ### Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="4%" width="4%" >              
 <!-- ## I'm krishnakant !! -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=53F7AEC5&width=435&height=29&lines=I+am+Chirag+Tankan+(Tankan);I+am+Web+devlouper;I+am+Programer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=53F7AEC5&width=435&height=29&lines=I+am+Chirag+Tankan+(Tankan);I+am+Web+devloper;I+am+Programer;)](https://git.io/typing-svg)
 - 🔭 I  am passionate front-end Developer and Freelancer.
 - 🌱 From My Home, India.
 - 🛠⚙ I love to explore and learn about new things.
